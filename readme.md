@@ -1,5 +1,14 @@
 Hi 👋 My name is Leonardo SIlva
-===============================Junior Developer----------------As a junior and student developer at 42 School, I am constantly motivated by my interest for technology and my passion for creating optimal user experiences. My primary interest lies in front-end development, where I strive to create engaging and user-friendly interfaces that elevate the user's experience. However, I am also eager to learn and explore other areas of programming, always seeking to expand my knowledge and skill set. At 42 School, I have been given the opportunity to immerse myself in a collaborative and challenging learning environment that has helped me grow both as a programmer and as an individual. The school's unique approach to education, based on project-based learning and peer-to-peer evaluation, has allowed me to develop a strong sense of autonomy and problem-solving skills, as well as the ability to work effectively within a team. Overall, I am a driven and curious individual who is committed to honing my skills and making a positive impact in the tech industry.* 🌍  I'm based in Porto, Portugal* ✉️  You can contact me at [leonardofilipeiot@gmail.com](mailto:leonardofilipeiot@gmail.com)* 🧠  I'm learning C, C++, Shell Scripting and Computer Science fundamentals through 42 school 's common core
+
+Junior Developer
+
+As a junior and student developer at 42 School, I am constantly motivated by my interest for technology and my passion for creating optimal user experiences. My primary interest lies in front-end development, where I strive to create engaging and user-friendly interfaces that elevate the user's experience. However, I am also eager to learn and explore other areas of programming, always seeking to expand my knowledge and skill set. At 42 School, I have been given the opportunity to immerse myself in a collaborative and challenging learning environment that has helped me grow both as a programmer and as an individual.
+
+The school's unique approach to education, based on project-based learning and peer-to-peer evaluation, has allowed me to develop a strong sense of autonomy and problem-solving skills, as well as the ability to work effectively within a team. Overall, I am a driven and curious individual who is committed to honing my skills and making a positive impact in the tech industry.
+
+* 🌍  I'm based in Porto, Portugal
+* ✉️  You can contact me at [leonardofilipeiot@gmail.com](mailto:leonardofilipeiot@gmail.com)
+* 🧠  I'm learning C, C++, Shell Scripting and Computer Science fundamentals through 42 school 's common core
 
 ### Skills
 
